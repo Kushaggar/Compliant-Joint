@@ -93,6 +93,7 @@ Rotation Y shows near-perfect agreement (0.2%) between simulation and analytical
 | File | Description |
 |---|---|
 | *5 DOF* | SolidWorks part file |
+| `5 DOF.pdf` | Drawing file |
 | `Translation Constraint Joint with 5 DOF.pdf` | Full project report with simulation results |
 
 ---
